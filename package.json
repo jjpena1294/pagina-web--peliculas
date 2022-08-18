@@ -1,0 +1,19 @@
+{
+  "name": "pagina-web--peliculas",
+  "version": "1.0.0",
+  "description": "Esta es la creación de una pagina web de películas",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjpena1294/pagina-web--peliculas.git"
+  },
+  "author": "@jjpena1294",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jjpena1294/pagina-web--peliculas/issues"
+  },
+  "homepage": "https://github.com/jjpena1294/pagina-web--peliculas#readme"
+}
